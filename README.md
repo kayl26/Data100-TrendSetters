@@ -1,2 +1,4 @@
 # Data100-TrendSetters
-Collaborated with Nathan Gaynor, George Mandl and Zoya King
+
+
+Analyzed structured data and developed a linear regression model to determine impact of government measures on COVID-19 incidence and mortality
